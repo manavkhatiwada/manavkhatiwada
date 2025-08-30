@@ -31,13 +31,13 @@ End-to-end scheduling assistant that streamlines patient appointment booking wit
 RAG pipeline that ingests documents, chunks with overlap, embeds, and retrieves context for grounded answers.  
 - Stack: Python, LangChain, Chroma/FAISS (choose one)  
 - Highlights: document loaders, chunking strategy, retriever config, prompt templates  
-- Repo: (add link) • Demo/Notebook: (add link or GIF)
+- Repo: (add link) • Demo/Notebook: (https://github.com/manavkhatiwada/langchain-rag-starter.git)
 
 ### Hospital Management System
 Basic hospital operations web app for patients, doctors, and appointments; demonstrates CRUD, simple auth, and data views.  
 - Stack: Python, Flask/Django (choose one), SQLite/PostgreSQL  
 - Highlights: modular structure, forms, templates, basic RBAC  
-- Repo: (add link) • Screenshots: (add link)
+- Repo: (add link) • Screenshots: (https://github.com/manavkhatiwada/pocket-doctor-2nd)
 
 ## Currently building
 - Hardening a LangChain-based RAG starter with clear ingestion and evaluation steps.  
