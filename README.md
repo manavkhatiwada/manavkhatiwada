@@ -23,21 +23,21 @@ Hi! I build practical AI and data solutions—from retrieval-augmented generatio
 ## Featured projects
 ### AI Doctor Appointment System
 End-to-end scheduling assistant that streamlines patient appointment booking with a simple web interface. Includes form validation, availability logic, and clear UX for confirmations.  
-- Stack: Python, Flask/Django (choose one), HTML/CSS/JS  
+- Stack: Python, Flask, HTML/CSS/JS  
 - Highlights: clean routing, input handling, simple persistence layer  
-- Repo: (add link) • Demo: (add link or GIF)  
+- Repo: (https://github.com/manavkhatiwada/pocket-doctor-2nd) 
 
 ### Retrieval-Augmented Generation (RAG) System
 RAG pipeline that ingests documents, chunks with overlap, embeds, and retrieves context for grounded answers.  
-- Stack: Python, LangChain, Chroma/FAISS (choose one)  
+- Stack: Python, LangChain, Chroma
 - Highlights: document loaders, chunking strategy, retriever config, prompt templates  
-- Repo: (add link) • Demo/Notebook: (https://github.com/manavkhatiwada/langchain-rag-starter.git)
+- Repo: (https://github.com/manavkhatiwada/langchain-rag-starter.git) 
 
 ### Hospital Management System
 Basic hospital operations web app for patients, doctors, and appointments; demonstrates CRUD, simple auth, and data views.  
-- Stack: Python, Flask/Django (choose one), SQLite/PostgreSQL  
+- Stack: PythonL  
 - Highlights: modular structure, forms, templates, basic RBAC  
-- Repo: (add link) • Screenshots: (https://github.com/manavkhatiwada/pocket-doctor-2nd)
+- Repo: 
 
 ## Currently building
 - Hardening a LangChain-based RAG starter with clear ingestion and evaluation steps.  
